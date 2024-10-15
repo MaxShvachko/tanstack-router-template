@@ -40,7 +40,7 @@
 		"@radix-ui/react-accordion": "^1.2.1",
 		"@radix-ui/react-popover": "^1.1.2",
 		"@radix-ui/react-slot": "^1.1.0",
-		"@tanstack/react-router": "^1.64.2",
+		"@tanstack/react-router": "^1.69.0",
 		"@tanstack/router-devtools": "^1.64.2",
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.1",
