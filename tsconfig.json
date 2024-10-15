@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+      "@/*": ["./src/*"]
+    },
+		"strict": true,
+		"skipLibCheck": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"jsx": "react-jsx",
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "Bundler",
+		"noImplicitReturns": true,
+		"noImplicitAny": true,
+		"noUnusedLocals": true
+	},
+	"include": ["src/**/*"],
+	"exclude": [
+    "node_modules/**/*",
+		"dist/**/*"
+  ]
+}
